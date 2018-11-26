@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site portfolio louize oosterlinck",
-    "currentPage": "aquarel.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
     "uniqCompNum": 39,
     "versionPublish": "4.8.3",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
