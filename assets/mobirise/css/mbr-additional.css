@@ -1784,6 +1784,20 @@ body {
 .cid-r5qeEK12bt .mbr-section-subtitle {
   color: #232323;
 }
+.cid-rbgQkIRzLb {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rbgQkIRzLb .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rbgQkIRzLb .video-block {
+    width: 100% !important;
+  }
+}
 .cid-ra2BfciNOT {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -2275,7 +2289,7 @@ body {
 .cid-r5ZyQ0OMc5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(0deg, #9ed5e8, #ffffff);
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-r5ZyQ0OMc5 .mbr-iconfont-social {
   font-size: 32px;
@@ -2283,6 +2297,70 @@ body {
 }
 .cid-r5ZyQ0OMc5 .social-list a:focus {
   text-decoration: none;
+}
+.cid-raHS3t15Jh {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-raHS3t15Jh .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-raHS3t15Jh .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-raHS3t15Jh .media-wrap img {
+  height: 6rem;
+}
+.cid-raHS3t15Jh .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-raHS3t15Jh .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-raHS3t15Jh .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-raHS3t15Jh .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+  -webkit-flex-wrap: wrap;
+}
+.cid-raHS3t15Jh .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-raHS3t15Jh .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-raHS3t15Jh .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-raHS3t15Jh .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-raHS3t15Jh .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
 }
 .cid-r5qc4j5fsj .navbar {
   background: #ffffff;
